@@ -1,10 +1,10 @@
-![Introduction](https://github.com/shweta-laha/Day3/blob/main/Shweta%20Laha.gif)
+
 # Introduction 🚀
-Hey👋 I'm Shweta Laha from Netaji Subhash Engineering College, Currently I'm in 3rd yr of Electronics and communication.
+Hey👋 I'm Akshay Kumar Mourya from TINT, Currently I'm in 1st yr of AIML.
 
 ## 💠 Basic Details
 
-**Name**- *Shweta Laha*
+**Name**- *Akshay Mourya*
 
 **City**- *Kolkata*
 
@@ -12,29 +12,27 @@ Hey👋 I'm Shweta Laha from Netaji Subhash Engineering College, Currently I'm i
 
 ## 💠College Details
 
-**College Name**- *NETAJI SUBHASH ENGINEERING CoLLEGE*
+**College Name**- *Techno International New Town*
 
-**City**- *Kolkata, Garia*
+**City**- *New Town*
 
 ## 💠Here is my skills
 
 | S_No. | Skills|
 |----|----|
-|1.| React |
-|2.| Java |
-|3.| C|
-|4.| JavaScript|
-|5.| Html, CSS|
+|1.| Drawing|
+|2.| Sketch |
+|3.| Html, CSS|
 
 ## 💠 Course
-1. Coursera
-2. Udemy
-3. Unacademy
+1. *Coursera*
+2. *Udemy*
+3. *Unacademy*
 
 ## 💠Language
-- Hindi
-- Bengali
-- English
+- *Hindi*
+- *Bengali*
+- *English*
  
- ## ✨Here is my Linkedin Profile ✨
- [Click on this](https://www.linkedin.com/in/shweta-laha-9254741b2/)
+ ## ✨**Here is my YouTube Channel**✨
+ [Click on this](https://youtube.com/channel/UC27XwfUrCDrp57YIf_8IZwQ)
